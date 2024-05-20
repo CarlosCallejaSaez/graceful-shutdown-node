@@ -1,0 +1,50 @@
+1. Tirana - Albania
+2. Andorra la Vella - Andorra
+3. Ereván - Armenia
+4. Bakú - Azerbaiyán
+5. Minsk - Bielorrusia
+6. Bruselas - Bélgica
+7. Sarajevo - Bosnia y Herzegovina
+8. Sofía - Bulgaria
+9. Zagreb - Croacia
+10. Nicosia - Chipre
+11. Praga - República Checa
+12. Copenhague - Dinamarca
+13. Tallin - Estonia
+14. Helsinki - Finlandia
+15. París - Francia
+16. Tiflis - Georgia
+17. Berlín - Alemania
+18. Atenas - Grecia
+19. Budapest - Hungría
+20. Reykjavik - Islandia
+21. Dublín - Irlanda
+22. Roma - Italia
+23. Astaná - Kazajistán
+24. Pristina - Kosovo
+25. Riga - Letonia
+26. Vaduz - Liechtenstein
+27. Vilna - Lituania
+28. Luxemburgo - Luxemburgo
+29. Skopie - Macedonia del Norte
+30. La Valeta - Malta
+31. Chisináu - Moldavia
+32. Mónaco - Mónaco
+33. Podgorica - Montenegro
+34. Ámsterdam - Países Bajos
+35. Oslo - Noruega
+36. Varsovia - Polonia
+37. Lisboa - Portugal
+38. Bucarest - Rumania
+39. Moscú - Rusia
+40. San Marino - San Marino
+41. Belgrado - Serbia
+42. Bratislava - Eslovaquia
+43. Liubliana - Eslovenia
+44. Madrid - España
+45. Estocolmo - Suecia
+46. Berna - Suiza
+47. Ankara - Turquía
+48. Kiev - Ucrania
+49. Londres - Reino Unido
+50. Ciudad del Vaticano - Ciudad del Vaticano
